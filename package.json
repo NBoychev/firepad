@@ -39,7 +39,7 @@
     "package.json"
   ],
   "dependencies": {
-    "firebase": "^3 || ^4",
+    "firebase": "^3 || ^4 || ^5",
     "jsdom": ">3"
   },
   "devDependencies": {
